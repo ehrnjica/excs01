@@ -1,3 +1,3 @@
 # README
 
-This is my firt program written in python.
+This is my first program written in python.
